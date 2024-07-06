@@ -1,8 +1,8 @@
-www.youtube.com
-www.netflix.com
-www.x.com
-www.twitter.com
-www.primevideo.com
-www.hbomax.com
-www.disneyplus.com
-www.max.com
+0.0.0.0 www.youtube.com
+0.0.0.0 www.netflix.com
+0.0.0.0 www.x.com
+0.0.0.0 www.twitter.com
+0.0.0.0 www.primevideo.com
+0.0.0.0 www.hbomax.com
+0.0.0.0 www.disneyplus.com
+0.0.0.0 www.max.com
